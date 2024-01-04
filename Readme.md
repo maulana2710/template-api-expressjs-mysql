@@ -1,1 +1,1 @@
-if you want to enable this api, use 'node app.js' or 'nodemon'
+use "node app.js" or "nodemon" to turn on the server
