@@ -1,5 +1,5 @@
 {
-  "name": "acme-api",
+  "name": "template-api-expressjs-mysql",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {

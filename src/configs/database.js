@@ -3,5 +3,5 @@ module.exports = {
     host                : 'localhost',
     user                : 'root',
     password            : '',
-    database            : 'db_acme'
+    database            : 'db_'
 };
